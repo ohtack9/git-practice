@@ -7,3 +7,4 @@ Github上で更新
 conflict-remote上で変更
 rebase-practiceブランチで更新
 rebaseコンフリクト用_mainで更新
+rebase用
