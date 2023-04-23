@@ -6,3 +6,4 @@ conflictブランチで変更
 Github上で更新
 conflict-remote上で変更
 rebase-practiceブランチで更新
+rebaseコンフリクト用
