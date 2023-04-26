@@ -8,4 +8,4 @@ conflict-remote上で変更
 rebase-practiceブランチで更新
 rebaseコンフリクト用_mainで更新
 rebase用
-stash練習
+stash練習(トラック済み)
